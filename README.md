@@ -80,7 +80,7 @@ You can also use the Jupyter notebook provided in `colab-notebook/AktionFocusNet
 
 ## Authors
 
-- **Shaida Muhammad**
+- **[Shaida Muhammad](https://scholar.google.com/citations?user=XzAuQjMAAAAJ)**
 - **Hamza Ali Imran**
 - **Kiran Hamza**
 - **Saad Wazir**
